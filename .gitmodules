@@ -1,0 +1,3 @@
+[submodule "libgit"]
+	path = libgit
+	url = https://github.com/mallexxx/libgit2.git
